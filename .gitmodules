@@ -1,0 +1,6 @@
+[submodule "external/nrf-hal"]
+	path = external/nrf-hal
+	url = https://github.com/nrf-rs/nrf-hal
+[submodule "external/usbd-ethernet"]
+	path = external/usbd-ethernet
+	url = https://github.com/fobnail/usbd-ethernet
